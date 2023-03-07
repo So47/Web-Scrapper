@@ -23,6 +23,10 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Documentation
+
+You can visit this link http://localhost:3000/api
+
 ## Test
 
 ```bash
